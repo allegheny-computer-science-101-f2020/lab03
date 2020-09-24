@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- Objectives(#objectives)
+- [Objectives](#objectives)
 
 - [Introduction](#introduction)
 
